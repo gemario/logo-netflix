@@ -1,2 +1,36 @@
-# logo-netflix
- recriando o logo da netflix
+<h1 align="center">
+  Logo Netflix
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br>
+
+<h1>Resiltado</h1>
+<p align="center">
+  <img alt="" src=".github/netiflix.png" width="100%">
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+Essa ilustração foi desenvolvida com as seguintes tecnologias:
+
+- HTML
+- CSS
+
+## 🚧 Projeto
+
+Neste desafio foi recreado o logo da Netflix.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE)
+
+---
+
