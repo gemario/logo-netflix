@@ -12,7 +12,7 @@
 
 <h1>Resultado</h1>
 <p align="center">
-  <img alt="" src=".github/netflix.png" width="80%">
+  <img alt="" src=".github/netflix.png" width="60%">
 </p>
 
 ---
