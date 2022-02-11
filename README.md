@@ -10,9 +10,9 @@
 
 <br>
 
-<h1>Resiltado</h1>
+<h1>Resultado</h1>
 <p align="center">
-  <img alt="" src=".github/netiflix.png" width="100%">
+  <img alt="" src=".github/netflix.png" width="100%">
 </p>
 
 ---
