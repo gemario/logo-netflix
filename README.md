@@ -26,7 +26,7 @@ Essa ilustração foi desenvolvida com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Neste desafio foi recreado o logo da Netflix.
+Neste desafio foi recriado o logo da Netflix.
 
 ## :memo: Licença
 
